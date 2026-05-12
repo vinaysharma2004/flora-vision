@@ -3,7 +3,7 @@ import TrendyPlants from "./components/TrendyPlants";
 import TopSellingPlants from "./components/TopSellingPlants";
 import CustomerReview from "./components/CustomerReview";
 import Best02 from "./components/Best02";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
